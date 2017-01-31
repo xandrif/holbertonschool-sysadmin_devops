@@ -1,5 +1,0 @@
-cd /tmp/
-touch betty
-mv .x/ /tmp/holberton
-
-
