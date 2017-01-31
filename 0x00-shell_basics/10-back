@@ -1,0 +1,4 @@
+pwd
+mkdir /tmp/var
+cd /var
+cd -
