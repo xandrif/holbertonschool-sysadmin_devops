@@ -1,3 +1,4 @@
+#!/bin/bash
 pwd
 mkdir /tmp/var
 cd /var
