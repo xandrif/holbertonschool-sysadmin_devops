@@ -1,2 +1,2 @@
-x#!/bin/bash 
+#!/bin/bash 
 find . -iname *.gif| rev | cut -c 5- | rev | LC_ALL=C | printf "%f/n" | 
